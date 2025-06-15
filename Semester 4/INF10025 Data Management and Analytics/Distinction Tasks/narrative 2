@@ -1,0 +1,19 @@
+Service (Sid, Title)
+Primary Key Sid
+
+Contract (StartDate, EndDate, WeeklyFee, Sid, ClientCode)
+Primary Key (Sid, ClientCode)
+Foreign Key Sid REFERENCES Service(Sid)
+Foreign Key ClientCode REFERENCES Client(ClientCode)
+
+Client (ClientCode, CompanyName, Address, PhoneNo)
+Primary Key ClientCode
+
+Payment (Date, Amount, Sid, ClientCode, PaymentMethodID)
+Primary Key (Sid, ClientCode, PaymentMethodID)
+Foreign Key Sid REFERENCES Service(Sid)
+Foreign Key ClientCode REFERENCES Client(ClientCode)
+Foreign Key PaymentMethodID REFERENCES PaymentMethods(PaymentMethodID)
+
+PaymentMethods(PaymentMethodID, MethodName)
+Primary Key PaymentMethodID

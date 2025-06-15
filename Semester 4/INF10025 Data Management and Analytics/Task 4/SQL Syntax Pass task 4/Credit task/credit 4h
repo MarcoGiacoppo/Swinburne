@@ -1,0 +1,5 @@
+SELECT state, gender, SUM(salesthisyear) AS "Total Sales This Year"
+FROM customer1453
+WHERE rating IN (1, 2, 3)
+GROUP BY state, gender
+ORDER BY state ASC, gender ASC;

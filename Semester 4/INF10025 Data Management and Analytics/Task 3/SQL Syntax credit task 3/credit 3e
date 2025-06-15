@@ -1,0 +1,7 @@
+SELECT '104071453' AS StuId, movie1453.*
+FROM movie1453
+WHERE LOWER(Title) NOT LIKE '%a%'
+AND LOWER(Title) NOT LIKE '%b%'
+AND LOWER(Title) NOT LIKE '%i%'
+AND LOWER(Title) NOT LIKE '%o%'
+ORDER BY Title DESC

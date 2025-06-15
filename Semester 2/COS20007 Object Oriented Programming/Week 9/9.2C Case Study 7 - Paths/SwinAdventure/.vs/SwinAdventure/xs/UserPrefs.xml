@@ -1,0 +1,51 @@
+﻿<Properties StartupConfiguration="{6112B720-4E49-48FF-BEA7-BCFA3B546B83}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SwinAdventure PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestSwinAdventure/TestMoveCommand.cs">
+    <Files>
+      <File FileName="SwinAdventure/MoveCommand.cs" Line="15" Column="51" />
+      <File FileName="SwinAdventure/Path.cs" Line="27" Column="48" />
+      <File FileName="SwinAdventure/Player.cs" Line="40" Column="4" />
+      <File FileName="SwinAdventure/Command.cs" Line="10" Column="1" />
+      <File FileName="SwinAdventure/GameObject.cs" Line="1" Column="1" />
+      <File FileName="SwinAdventure/IdentifiableObject.cs" />
+      <File FileName="SwinAdventure/IHaveInventory.cs" />
+      <File FileName="SwinAdventure/Inventory.cs" />
+      <File FileName="SwinAdventure/Item.cs" />
+      <File FileName="TestSwinAdventure/TestPlayer.cs" />
+      <File FileName="TestSwinAdventure/TestPath.cs" />
+      <File FileName="SwinAdventure/Bag.cs" />
+      <File FileName="TestSwinAdventure/TestMoveCommand.cs" Line="63" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SwinAdventure" expanded="True">
+            <Node name="SwinAdventure" expanded="True" />
+            <Node name="SwinAdventureTest" expanded="True">
+              <Node name="TestMoveCommand.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="SwinAdventure" expanded="True">
+            <Node name="SwinAdventureTest" expanded="True">
+              <Node name="SwinAdventureTest" expanded="True">
+                <Node name="TestLocation" expanded="True" />
+                <Node name="TestMoveCommand" expanded="True" />
+                <Node name="TestPath" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

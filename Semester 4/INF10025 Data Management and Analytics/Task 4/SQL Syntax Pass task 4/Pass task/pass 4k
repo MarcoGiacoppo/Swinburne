@@ -1,0 +1,35 @@
+Comedian1453(ComedianId, Name, Address, ContactNumber, Email)
+Primary Key: ComedianId
+
+Show1453(ShowId, Title, Description, ComedianId)
+Primary Key: ShowId
+Foreign Key: ComedianId references Comedian1453
+
+Rating1453(RatingId, Score, ShowId, BarcodeId)
+Primary Key: RatingId
+Foreign Key: ShowId references Show1453
+Foreign Key: BarcodeId references FestivalAttendee1453
+
+FestivalAttendee1453(BarcodeId, Name, Address, PhoneNumber)
+Primary Key: BarcodeId
+
+Test Data;
+INSERT INTO Comedian1453 (ComedianId, Name, Address, ContactNumber, Email)
+VALUES (C123, 'John Doe', '123 Funny Street', '123-456-7890', 'johndoe@example.com')
+INSERT INTO Comedian1453 (ComedianId, Name, Address, ContactNumber, Email)
+VALUES (C124, 'Jane Smith', '456 Comedy Avenue', '098-765-4321', 'janesmith@example.com')
+
+INSERT INTO Show1453 (ShowId, Title, Description, ComedianId) 
+VALUES (S123, 'Laugh Out Loud', 'A stand-up comedy.', C123)
+INSERT INTO Show1453 (ShowId, Title, Description, ComedianId)
+VALUES (S124, 'Giggle Fest', 'An evening filled with humor and laughter.', C124)
+
+INSERT INTO FestivalAttendee1453 (BarcodeId, Name, Address, PhoneNumber) 
+VALUES (F123, 'Alice Wonderland', '789 Joy Road', '1111-222-333')
+INSERT INTO FestivalAttendee1453 (BarcodeId, Name, Address, PhoneNumber) 
+VALUES (F124, 'Bob Marvel', '321 Happy Lane', '4444-555-666')
+
+INSERT INTO Rating1453 (RatingId, Score, ShowId, BarcodeId) 
+VALUES (R123, 8, S123, F123)
+INSERT INTO Rating1453 (RatingId, Score, ShowId, BarcodeId)
+VALUES (R124, 9, S124, F124)

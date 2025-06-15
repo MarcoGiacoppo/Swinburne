@@ -1,0 +1,45 @@
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventure/bin/Debug/net6.0/SwinAdventure
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventure/bin/Debug/net6.0/SwinAdventure.deps.json
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventure/bin/Debug/net6.0/SwinAdventure.runtimeconfig.json
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventure/bin/Debug/net6.0/SwinAdventure.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventure/bin/Debug/net6.0/SwinAdventure.pdb
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventure/obj/Debug/net6.0/SwinAdventure.csproj.AssemblyReference.cache
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventure/obj/Debug/net6.0/SwinAdventure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventure/obj/Debug/net6.0/SwinAdventure.AssemblyInfoInputs.cache
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventure/obj/Debug/net6.0/SwinAdventure.AssemblyInfo.cs
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventure/obj/Debug/net6.0/SwinAdventure.csproj.CoreCompileInputs.cache
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventure/obj/Debug/net6.0/SwinAdventure.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventure/obj/Debug/net6.0/refint/SwinAdventure.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventure/obj/Debug/net6.0/SwinAdventure.pdb
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventure/obj/Debug/net6.0/SwinAdventure.genruntimeconfig.cache
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventure/obj/Debug/net6.0/ref/SwinAdventure.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C SwinAdventure - Case 6/SwinAdventure/SwinAdventure/bin/Debug/net6.0/SwinAdventure
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C SwinAdventure - Case 6/SwinAdventure/SwinAdventure/bin/Debug/net6.0/SwinAdventure.deps.json
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C SwinAdventure - Case 6/SwinAdventure/SwinAdventure/bin/Debug/net6.0/SwinAdventure.runtimeconfig.json
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C SwinAdventure - Case 6/SwinAdventure/SwinAdventure/bin/Debug/net6.0/SwinAdventure.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C SwinAdventure - Case 6/SwinAdventure/SwinAdventure/bin/Debug/net6.0/SwinAdventure.pdb
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C SwinAdventure - Case 6/SwinAdventure/SwinAdventure/obj/Debug/net6.0/SwinAdventure.csproj.AssemblyReference.cache
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C SwinAdventure - Case 6/SwinAdventure/SwinAdventure/obj/Debug/net6.0/SwinAdventure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C SwinAdventure - Case 6/SwinAdventure/SwinAdventure/obj/Debug/net6.0/SwinAdventure.AssemblyInfoInputs.cache
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C SwinAdventure - Case 6/SwinAdventure/SwinAdventure/obj/Debug/net6.0/SwinAdventure.AssemblyInfo.cs
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C SwinAdventure - Case 6/SwinAdventure/SwinAdventure/obj/Debug/net6.0/SwinAdventure.csproj.CoreCompileInputs.cache
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C SwinAdventure - Case 6/SwinAdventure/SwinAdventure/obj/Debug/net6.0/SwinAdventure.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C SwinAdventure - Case 6/SwinAdventure/SwinAdventure/obj/Debug/net6.0/refint/SwinAdventure.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C SwinAdventure - Case 6/SwinAdventure/SwinAdventure/obj/Debug/net6.0/SwinAdventure.pdb
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C SwinAdventure - Case 6/SwinAdventure/SwinAdventure/obj/Debug/net6.0/SwinAdventure.genruntimeconfig.cache
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C SwinAdventure - Case 6/SwinAdventure/SwinAdventure/obj/Debug/net6.0/ref/SwinAdventure.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventure/bin/Debug/net6.0/SwinAdventure
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventure/bin/Debug/net6.0/SwinAdventure.deps.json
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventure/bin/Debug/net6.0/SwinAdventure.runtimeconfig.json
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventure/bin/Debug/net6.0/SwinAdventure.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventure/bin/Debug/net6.0/SwinAdventure.pdb
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventure/obj/Debug/net6.0/SwinAdventure.csproj.AssemblyReference.cache
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventure/obj/Debug/net6.0/SwinAdventure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventure/obj/Debug/net6.0/SwinAdventure.AssemblyInfoInputs.cache
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventure/obj/Debug/net6.0/SwinAdventure.AssemblyInfo.cs
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventure/obj/Debug/net6.0/SwinAdventure.csproj.CoreCompileInputs.cache
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventure/obj/Debug/net6.0/SwinAdventure.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventure/obj/Debug/net6.0/refint/SwinAdventure.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventure/obj/Debug/net6.0/SwinAdventure.pdb
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventure/obj/Debug/net6.0/SwinAdventure.genruntimeconfig.cache
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventure/obj/Debug/net6.0/ref/SwinAdventure.dll

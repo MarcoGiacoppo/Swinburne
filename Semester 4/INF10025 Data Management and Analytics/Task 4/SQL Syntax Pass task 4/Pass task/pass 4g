@@ -1,0 +1,4 @@
+SELECT '104071453' AS StudId, COUNT(*) AS PlayerCount FROM Player1453;
+
+SELECT '104071453' AS StudId, CampaignCode, COUNT(*) AS PlayerCount FROM Player1453
+GROUP BY CampaignCode;

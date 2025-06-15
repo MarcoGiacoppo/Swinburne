@@ -1,0 +1,4 @@
+SELECT '104071453' AS StudId, RatingCode, COUNT(MovieNo) AS MovieCount
+FROM movie1453
+GROUP BY RatingCode
+ORDER BY MovieCount DESC;

@@ -1,0 +1,19 @@
+CREATE TABLE SwimmingCentre (
+	Name VARCHAR(255) PRIMARY KEY,
+	EstDate DATE,
+	Description TEXT
+);
+
+CREATE TABLE Client (
+	ClientId INT PRIMARY KEY,
+	Name VARCHAR(255)
+);
+
+CREATE TABLE Membership (
+	ClientId INT,
+	CentreName VARCHAR(255),
+	JoinDate DATE,
+	PRIMARY KEY (ClientId, CentreName),
+	FOREIGN KEY (ClientId) REFERENCES Client(ClientId),
+	FOREIGN KEY (CentreName) REFERENCES SwimmingCentre(Name)
+);

@@ -1,0 +1,19 @@
+INSERT INTO Campaign1453 (CampaignCode, CampaignTitle)
+VALUES (1, 'Campaign One');
+INSERT INTO Campaign1453 (CampaignCode, CampaignTitle)
+VALUES (2, 'Campaign Two');
+INSERT INTO Campaign1453 (CampaignCode, CampaignTitle)
+VALUES (3, 'Campaign Three');
+
+INSERT INTO Player1453 (Pid, PName, Gender, CampaignCode)
+VALUES (21, 'Ali Aien', 'M', 2);
+INSERT INTO Player1453 (Pid, PName, Gender, CampaignCode)
+VALUES (22, 'Peter Ymer', 'M', 1);
+INSERT INTO Player1453 (Pid, PName, Gender, CampaignCode)
+VALUES (23, 'Sarah Rogers', 'F', 1);
+INSERT INTO Player1453 (Pid, PName, Gender, CampaignCode)
+VALUES (24, 'Sheelan Aien', 'F', 2);
+INSERT INTO Player1453 (Pid, PName, Gender, CampaignCode)
+VALUES (25, 'Marco Giacoppo', 'M', 3);
+INSERT INTO Player1453 (Pid, PName, Gender, CampaignCode)
+VALUES (26, 'Corey Santarossa', 'M', 3);

@@ -1,0 +1,5 @@
+SELECT '104071453' AS StudId, m.MovieNo, m.Title, c.ColourName, r.ShortDesc
+FROM movie1453 m
+INNER JOIN colourtype1453 c ON m.colourcode = c.colourcode
+INNER JOIN rating1453 r ON m.ratingcode = r.ratingcode
+ORDER BY m.Title DESC;

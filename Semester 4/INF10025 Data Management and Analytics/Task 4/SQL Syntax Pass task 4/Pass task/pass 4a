@@ -1,0 +1,6 @@
+CAMPAIGN (CampaignCode, CampaignTitle)
+Primary Key (CampaignCode)
+
+PLAYER (Pid, PName, Gender, CampaignCode)
+Primary Key (Pid)
+Foreign Key (CampaignCode) references Campaign

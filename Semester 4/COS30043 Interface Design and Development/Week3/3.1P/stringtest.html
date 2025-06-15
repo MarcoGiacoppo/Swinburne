@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task 3.1P</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+</head>
+
+<body>
+    <div id="app">
+        <h1>Name Checker</h1>
+        
+        {{ string }} <input type="text" v-model="strName">  
+
+        <p v-if="strName.toLowerCase() === 'marco'" class="awesome">Awesome Name!</p>
+        <p v-else-if="strName === '' ">Please enter a name!</p>
+        <p v-else class="not-my-name">
+            <i>{{strName}}</i> is NOT my name!
+        </p>
+    </div>
+<script>
+
+    const app = Vue.createApp({
+      data() {
+        return {
+          string: "Please enter your name:",
+          strName: "",
+        }
+      },
+    })
+
+   app.mount('#app')
+
+  </script>
+
+</body>
+</html>

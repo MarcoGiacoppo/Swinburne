@@ -1,0 +1,34 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 20px;
+    text-align: center;
+}
+
+#app {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+h1 {
+    color: #3498db;
+}
+
+input {
+    padding: 8px;
+    margin-bottom: 16px;
+}
+
+p {
+    margin-top: 12px;
+    font-size: 16px;
+}
+
+.awesome {
+    color: #2ecc71;
+    font-weight: bold;
+}
+
+.not-my-name {
+    color: #e74c3c;
+    font-style: italic;
+}

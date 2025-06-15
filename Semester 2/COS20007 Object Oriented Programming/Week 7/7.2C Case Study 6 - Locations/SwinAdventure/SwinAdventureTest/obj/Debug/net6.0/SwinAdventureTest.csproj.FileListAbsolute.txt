@@ -1,0 +1,208 @@
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/CoverletSourceRootsMapping
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/SwinAdventure.deps.json
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/SwinAdventure.runtimeconfig.json
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/SwinAdventure
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/NUnit3.TestAdapter.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/NUnit3.TestAdapter.pdb
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/nunit.engine.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/nunit.engine.api.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/nunit.engine.core.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/testcentric.engine.metadata.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/SwinAdventureTest.deps.json
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/SwinAdventureTest.runtimeconfig.json
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/SwinAdventureTest.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/SwinAdventureTest.pdb
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/Microsoft.TestPlatform.Utilities.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/testhost.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/NuGet.Frameworks.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/nunit.framework.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/SwinAdventure.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/SwinAdventure.pdb
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/obj/Debug/net6.0/SwinAdventureTest.csproj.AssemblyReference.cache
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/obj/Debug/net6.0/SwinAdventureTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/obj/Debug/net6.0/SwinAdventureTest.AssemblyInfoInputs.cache
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/obj/Debug/net6.0/SwinAdventureTest.AssemblyInfo.cs
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/obj/Debug/net6.0/SwinAdventureTest.csproj.CoreCompileInputs.cache
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/obj/Debug/net6.0/SwinAdventureTest.csproj.CopyComplete
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/obj/Debug/net6.0/SwinAdventureTest.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/obj/Debug/net6.0/refint/SwinAdventureTest.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/obj/Debug/net6.0/SwinAdventureTest.pdb
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/obj/Debug/net6.0/SwinAdventureTest.genruntimeconfig.cache
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2P SwinAdventure - Case 6/SwinAdventure/SwinAdventureTest/obj/Debug/net6.0/ref/SwinAdventureTest.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/CoverletSourceRootsMapping
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/NUnit3.TestAdapter.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/NUnit3.TestAdapter.pdb
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/nunit.engine.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/nunit.engine.api.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/nunit.engine.core.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/testcentric.engine.metadata.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/SwinAdventure.deps.json
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/SwinAdventure.runtimeconfig.json
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/SwinAdventure
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/SwinAdventureTest.deps.json
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/SwinAdventureTest.runtimeconfig.json
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/SwinAdventureTest.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/SwinAdventureTest.pdb
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/Microsoft.TestPlatform.Utilities.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/testhost.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/NuGet.Frameworks.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/nunit.framework.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/SwinAdventure.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/bin/Debug/net6.0/SwinAdventure.pdb
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/obj/Debug/net6.0/SwinAdventureTest.csproj.AssemblyReference.cache
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/obj/Debug/net6.0/SwinAdventureTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/obj/Debug/net6.0/SwinAdventureTest.AssemblyInfoInputs.cache
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/obj/Debug/net6.0/SwinAdventureTest.AssemblyInfo.cs
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/obj/Debug/net6.0/SwinAdventureTest.csproj.CoreCompileInputs.cache
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/obj/Debug/net6.0/SwinAdventureTest.csproj.CopyComplete
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/obj/Debug/net6.0/SwinAdventureTest.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/obj/Debug/net6.0/refint/SwinAdventureTest.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/obj/Debug/net6.0/SwinAdventureTest.pdb
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/obj/Debug/net6.0/SwinAdventureTest.genruntimeconfig.cache
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 7/7.2C Case Study 6 - Locations/SwinAdventure/SwinAdventureTest/obj/Debug/net6.0/ref/SwinAdventureTest.dll

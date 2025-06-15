@@ -1,0 +1,5 @@
+SELECT '104071453' AS StudId, a.FullName, m.Title, m.RelYear
+FROM Casting1453 c
+INNER JOIN Actor1453 a ON c.ActorNo = a.ActorNo
+INNER JOIN movie1453 m ON c.MovieNo = m.MovieNo
+ORDER BY a.FullName DESC;

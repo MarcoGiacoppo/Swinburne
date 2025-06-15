@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{09C71F92-AA67-4D32-BB4A-96A7A9F2A1ED}|Default">
+  <MonoDevelop.Ide.ItemProperties.DrawingProgram PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestDrawing.txt">
+    <Files>
+      <File FileName="ExtensionMethods.cs" Line="1" Column="1" />
+      <File FileName="Drawing.cs" Line="1" Column="1" />
+      <File FileName="MyLine.cs" Line="41" Column="48" />
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="TestDrawing.txt" Line="67" Column="1" />
+      <File FileName="Shape.cs" />
+      <File FileName="MyRectangle.cs" />
+      <File FileName="MyCircle.cs" />
+      <File FileName="myeasylog.log" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DrawingProgram" expanded="True">
+            <Node name="DrawingProgram" expanded="True">
+              <Node name="TestDrawing.txt" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

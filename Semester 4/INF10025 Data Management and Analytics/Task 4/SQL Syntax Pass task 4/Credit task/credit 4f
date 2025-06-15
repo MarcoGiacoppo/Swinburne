@@ -1,0 +1,5 @@
+SELECT '104071453' AS StudId, a.FullName, a.Gender, COUNT(c.MovieNo) AS "Total Movies"
+FROM casting1453 c
+INNER JOIN actor1453 a ON c.ActorNo = a.ActorNo
+GROUP BY a.FullName, a.Gender
+ORDER BY a.FullName DESC;

@@ -1,0 +1,30 @@
+/Users/marcogiacoppo/Desktop/Projects/SplashKitDemo/bin/Debug/net6.0/SplashKitDemo
+/Users/marcogiacoppo/Desktop/Projects/SplashKitDemo/bin/Debug/net6.0/SplashKitDemo.deps.json
+/Users/marcogiacoppo/Desktop/Projects/SplashKitDemo/bin/Debug/net6.0/SplashKitDemo.runtimeconfig.json
+/Users/marcogiacoppo/Desktop/Projects/SplashKitDemo/bin/Debug/net6.0/SplashKitDemo.dll
+/Users/marcogiacoppo/Desktop/Projects/SplashKitDemo/bin/Debug/net6.0/SplashKitDemo.pdb
+/Users/marcogiacoppo/Desktop/Projects/SplashKitDemo/obj/Debug/net6.0/SplashKitDemo.csproj.AssemblyReference.cache
+/Users/marcogiacoppo/Desktop/Projects/SplashKitDemo/obj/Debug/net6.0/SplashKitDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcogiacoppo/Desktop/Projects/SplashKitDemo/obj/Debug/net6.0/SplashKitDemo.AssemblyInfoInputs.cache
+/Users/marcogiacoppo/Desktop/Projects/SplashKitDemo/obj/Debug/net6.0/SplashKitDemo.AssemblyInfo.cs
+/Users/marcogiacoppo/Desktop/Projects/SplashKitDemo/obj/Debug/net6.0/SplashKitDemo.csproj.CoreCompileInputs.cache
+/Users/marcogiacoppo/Desktop/Projects/SplashKitDemo/obj/Debug/net6.0/SplashKitDemo.dll
+/Users/marcogiacoppo/Desktop/Projects/SplashKitDemo/obj/Debug/net6.0/refint/SplashKitDemo.dll
+/Users/marcogiacoppo/Desktop/Projects/SplashKitDemo/obj/Debug/net6.0/SplashKitDemo.pdb
+/Users/marcogiacoppo/Desktop/Projects/SplashKitDemo/obj/Debug/net6.0/SplashKitDemo.genruntimeconfig.cache
+/Users/marcogiacoppo/Desktop/Projects/SplashKitDemo/obj/Debug/net6.0/ref/SplashKitDemo.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 2/2.3P - Drawing Program - A Basic Shape/bin/Debug/net6.0/SplashKitDemo
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 2/2.3P - Drawing Program - A Basic Shape/bin/Debug/net6.0/SplashKitDemo.deps.json
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 2/2.3P - Drawing Program - A Basic Shape/bin/Debug/net6.0/SplashKitDemo.runtimeconfig.json
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 2/2.3P - Drawing Program - A Basic Shape/bin/Debug/net6.0/SplashKitDemo.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 2/2.3P - Drawing Program - A Basic Shape/bin/Debug/net6.0/SplashKitDemo.pdb
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 2/2.3P - Drawing Program - A Basic Shape/obj/Debug/net6.0/SplashKitDemo.csproj.AssemblyReference.cache
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 2/2.3P - Drawing Program - A Basic Shape/obj/Debug/net6.0/SplashKitDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 2/2.3P - Drawing Program - A Basic Shape/obj/Debug/net6.0/SplashKitDemo.AssemblyInfoInputs.cache
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 2/2.3P - Drawing Program - A Basic Shape/obj/Debug/net6.0/SplashKitDemo.AssemblyInfo.cs
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 2/2.3P - Drawing Program - A Basic Shape/obj/Debug/net6.0/SplashKitDemo.csproj.CoreCompileInputs.cache
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 2/2.3P - Drawing Program - A Basic Shape/obj/Debug/net6.0/SplashKitDemo.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 2/2.3P - Drawing Program - A Basic Shape/obj/Debug/net6.0/refint/SplashKitDemo.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 2/2.3P - Drawing Program - A Basic Shape/obj/Debug/net6.0/SplashKitDemo.pdb
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 2/2.3P - Drawing Program - A Basic Shape/obj/Debug/net6.0/SplashKitDemo.genruntimeconfig.cache
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 2/2.3P - Drawing Program - A Basic Shape/obj/Debug/net6.0/ref/SplashKitDemo.dll

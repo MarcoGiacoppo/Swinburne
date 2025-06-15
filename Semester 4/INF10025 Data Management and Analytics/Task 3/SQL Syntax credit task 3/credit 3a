@@ -1,0 +1,13 @@
+SELECT '104071453' AS StudId, 
+M.MovieNo, M.Title, M.Relyear, M.RatingCode, M.Runtime,
+R.ShortDesc AS RatingDesc,
+C.ColourName AS ColourDesc
+FROM movie1453 M
+INNER JOIN 
+rating1453 R ON M.RatingCode = R.RatingCode
+INNER JOIN
+colourtype1453 C ON M.ColourCode = C.ColourCode
+WHERE runtime > 170
+AND
+(M.RatingCode = 'M' OR M.RatingCode = 'MA')
+ORDER BY M.Movieno ASC;

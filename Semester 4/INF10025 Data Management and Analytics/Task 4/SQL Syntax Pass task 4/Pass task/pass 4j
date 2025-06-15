@@ -1,0 +1,10 @@
+Job1453(JobId, Title, Duration, Description)
+Primary Key JobId
+
+Delivery1453(DeliveryId, Date, Fee, JobId, DriverId)
+Primary Key DeliveryId
+Foreign Key JobId references Job1453
+Foreign Key DriverId reference Driver1453
+
+Driver1453(DriverId, Name, Address, MobileNumber)
+Primary Key DriverId

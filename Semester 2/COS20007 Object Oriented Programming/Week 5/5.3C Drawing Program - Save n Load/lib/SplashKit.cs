@@ -1,0 +1,5 @@
+XSym
+0051
+ac0090a24954c205ebc95d7fe462e0ed
+/Users/marcogiacoppo/.splashkit/dotnet/SplashKit.cs
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

@@ -1,0 +1,14 @@
+Competition1453 (CompetitionCode, Name, Date, Venue, ChampionshipId)
+Primary Key CompetitionCode
+Foreign Key ChampionshipId REFERENCES Championship1453
+
+Championship1453 (ChampionshipId, Year, Name)
+Primary Key ChampionshipId
+
+Golfer1453 (GolferId, Name, MobileNumber, Handicap)
+Primary Key GolferId
+
+Participation1453 (Scorevalue, VoteStatus, GolferId, CompetitionCode)
+Primary Key GolferId, CompetitionCode
+Foreign Key GolferId REFERENCES Golfer1453
+Foreign Key CompetitionCode REFERENCES Competition1453

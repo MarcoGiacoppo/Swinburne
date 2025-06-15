@@ -1,0 +1,29 @@
+Customer (CustomerId, Name)
+Primary Key CustomerId
+
+Motorcycle (VIN, Make, Model, Year, EnginerCapacity)
+Primary Key VIN
+
+Service (ServiceId, Date, Location, TotalCost)
+Primary Key ServiceId
+
+Task (TaskId, Description, HourlyRate)
+Primary Key TaskId
+
+Part (PartId, Name, UnitPrice)
+Primary Key PartId
+
+Ownership (CustomerId, VIN, StartDate, EndDate)
+Primary Key CustomerId, VIN
+Foreign Key CustomerId REFERENCES Customer(CustomerId)
+Foreign Key VIN REFERENCES Motorcycle(VIN)
+
+ServiceTask (Hours, TaskId, ServiceId)
+Primary Key TaskId, ServiceId
+Foreign Key TaskId REFERENCES Task(TaskId)
+Foreign Key ServiceId REFERENCES Service(ServiceId)
+
+ServicePart (Quantity, ServiceId, PartId)
+Primary Key ServiceId, PartId
+Foreign Key ServiceId REFERENCES Service(ServiceId)
+Foreign Key PartId REFERENCES Part(PartId)

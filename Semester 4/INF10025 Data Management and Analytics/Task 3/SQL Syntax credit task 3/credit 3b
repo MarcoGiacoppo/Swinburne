@@ -1,0 +1,16 @@
+SELECT '104071453' AS StudId, 
+       M.MovieNo, 
+       M.Title, 
+       M.Runtime, 
+       M.RatingCode, 
+       R.ShortDesc AS RatingDesc, 
+       M.TMDB_SCORE
+FROM movie1453 M
+INNER JOIN rating1453 R ON M.RatingCode = R.RatingCode
+WHERE 
+    ((M.RatingCode = 'MA' AND M.Runtime BETWEEN 100 AND 105) 
+    OR (M.RatingCode = 'G' AND M.Runtime < 90) 
+    OR (M.RatingCode = 'PG' AND M.Runtime BETWEEN 120 AND 125) 
+    OR (M.RatingCode = 'M' AND M.Runtime >= 170))
+    AND M.TMDB_SCORE BETWEEN 6.8 AND 7.4
+ORDER BY M.MovieNo ASC;

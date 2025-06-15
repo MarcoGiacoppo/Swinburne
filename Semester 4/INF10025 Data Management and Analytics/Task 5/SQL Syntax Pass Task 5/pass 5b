@@ -1,0 +1,11 @@
+SwimmingCentre (Name, EstDate, Description)
+Primary Key Name
+
+Client (ClientId, Name)
+Primary Key ClientId
+
+Membership (CentreName, JoinDate, ClientId)
+Primary Key CentreName, ClientId
+Foreign Key CentreName REFERENCES SwimmingCentre(Name)
+Foreign Key ClientId REFERENCES Client(ClientId)
+

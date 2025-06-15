@@ -1,0 +1,44 @@
+
+Here’s how I used SQL sanitisation using prepared statements:
+
+	1	Instead of directly concatenating user input into the SQL query, you will use placeholders (?) in the query.
+	2	Prepare the SQL statement by using the prepare() method of the MySQLi connection object.
+	3	Bind the user input values to the placeholders using the bind_param() method.
+	4	Execute the prepared statement using the execute() method.
+
+The sanitizeInput() function is a custom function defined to sanitize the input values. Here's what it does:
+
+trim(): Removes leading and trailing whitespace from the input value.
+stripslashes(): Removes backslashes from the input value to prevent SQL injection through escape characters.
+htmlspecialchars(): Converts special characters to their corresponding HTML entities to prevent cross-site scripting (XSS) attacks.
+$conn->real_escape_string(): Escapes special characters in the input value to prevent SQL injection attacks. It ensures the input value is safe to be used in SQL queries by considering the database connection.
+
+By implementing SQL sanitization with prepared statements, we can enhance the security of our application and prevent SQL injection vulnerabilities.
+
+
+
+This will test if the single and double quote character is properly handled.
+
+When we entered Jane "Doe" as the first name, it got sanitized and stored in the database as Jane &quot;Doe&quot;. The double quotes were replaced with their HTML entity representation &quot; to prevent any potential issues with interpreting the input as part of an HTML attribute or tag. 
+
+The input "John's" becomes "John &#039;s" in the database, it indicates that the single quotation mark (') has been encoded as the HTML entity code &#039;. This encoding ensures that the single quotation mark is treated as a literal character and not as part of an SQL statement, thus helping to prevent SQL injection.
+
+
+
+This will test if HTML tags are sanitised and treated as plain text.
+
+
+
+The HTML tags <h1> and </h1> are encoded as &lt;h1&gt; and &lt;/h1&gt; respectively.This encoding ensures that the HTML tags are treated as literal text and displayed as such on the webpage, rather than being interpreted as actual HTML tags. It helps prevent any unintended rendering or execution of HTML tags in user input.
+
+
+This will test how special characters are handled and if they are properly escaped.
+
+
+When the input "@#$%^&()" is stored in the database, it gets encoded as "@#$%^&amp;*()" to ensure that special characters are treated as literal characters and not interpreted as HTML or SQL syntax.
+
+
+This will test if the input is properly sanitised to prevent SQL injection.
+
+
+The character &#039; represents the HTML entity code for the single quotation mark ('). This is a way of encoding the character to prevent it from being interpreted as part of an SQL statement. The HTML entity code &#039; will be displayed as a single quotation mark when retrieved and rendered on a web page.

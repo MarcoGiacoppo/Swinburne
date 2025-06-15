@@ -1,0 +1,15 @@
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 2/2.2P - Counter Class/CounterClass/bin/Debug/net6.0/CounterClass
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 2/2.2P - Counter Class/CounterClass/bin/Debug/net6.0/CounterClass.deps.json
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 2/2.2P - Counter Class/CounterClass/bin/Debug/net6.0/CounterClass.runtimeconfig.json
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 2/2.2P - Counter Class/CounterClass/bin/Debug/net6.0/CounterClass.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 2/2.2P - Counter Class/CounterClass/bin/Debug/net6.0/CounterClass.pdb
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 2/2.2P - Counter Class/CounterClass/obj/Debug/net6.0/CounterClass.csproj.AssemblyReference.cache
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 2/2.2P - Counter Class/CounterClass/obj/Debug/net6.0/CounterClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 2/2.2P - Counter Class/CounterClass/obj/Debug/net6.0/CounterClass.AssemblyInfoInputs.cache
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 2/2.2P - Counter Class/CounterClass/obj/Debug/net6.0/CounterClass.AssemblyInfo.cs
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 2/2.2P - Counter Class/CounterClass/obj/Debug/net6.0/CounterClass.csproj.CoreCompileInputs.cache
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 2/2.2P - Counter Class/CounterClass/obj/Debug/net6.0/CounterClass.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 2/2.2P - Counter Class/CounterClass/obj/Debug/net6.0/refint/CounterClass.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 2/2.2P - Counter Class/CounterClass/obj/Debug/net6.0/CounterClass.pdb
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 2/2.2P - Counter Class/CounterClass/obj/Debug/net6.0/CounterClass.genruntimeconfig.cache
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 2/2.2P - Counter Class/CounterClass/obj/Debug/net6.0/ref/CounterClass.dll

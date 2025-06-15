@@ -1,0 +1,28 @@
+-- Start transaction for the purchase
+START TRANSACTION;
+
+-- Update the QtyInStock for a purchase
+UPDATE Product
+SET QtyInStock = QtyInStock - 2
+WHERE ProdID = 'G43546';
+
+-- Check if the update was successful
+SELECT QtyInStock FROM Product WHERE ProdID = 'G43546';
+
+-- Commit or rollback based on the outcome
+-- Assume checking stock ensures there are enough items before deducting
+COMMIT;
+
+-- Start transaction for the return
+START TRANSACTION;
+
+-- Update the QtyInStock for a return
+UPDATE Product
+SET QtyInStock = QtyInStock + 1
+WHERE ProdID = 'G43546';
+
+-- Check if the update was successful
+SELECT QtyInStock FROM Product WHERE ProdID = 'G43546';
+
+-- Commit or rollback based on the outcome
+COMMIT;

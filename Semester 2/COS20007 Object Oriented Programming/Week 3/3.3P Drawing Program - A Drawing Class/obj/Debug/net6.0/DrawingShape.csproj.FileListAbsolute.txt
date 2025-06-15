@@ -1,0 +1,60 @@
+/Users/marcogiacoppo/Desktop/git/Drawing Program/bin/Debug/net6.0/DrawingShape
+/Users/marcogiacoppo/Desktop/git/Drawing Program/bin/Debug/net6.0/DrawingShape.deps.json
+/Users/marcogiacoppo/Desktop/git/Drawing Program/bin/Debug/net6.0/DrawingShape.runtimeconfig.json
+/Users/marcogiacoppo/Desktop/git/Drawing Program/bin/Debug/net6.0/DrawingShape.dll
+/Users/marcogiacoppo/Desktop/git/Drawing Program/bin/Debug/net6.0/DrawingShape.pdb
+/Users/marcogiacoppo/Desktop/git/Drawing Program/obj/Debug/net6.0/DrawingShape.csproj.AssemblyReference.cache
+/Users/marcogiacoppo/Desktop/git/Drawing Program/obj/Debug/net6.0/DrawingShape.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcogiacoppo/Desktop/git/Drawing Program/obj/Debug/net6.0/DrawingShape.AssemblyInfoInputs.cache
+/Users/marcogiacoppo/Desktop/git/Drawing Program/obj/Debug/net6.0/DrawingShape.AssemblyInfo.cs
+/Users/marcogiacoppo/Desktop/git/Drawing Program/obj/Debug/net6.0/DrawingShape.csproj.CoreCompileInputs.cache
+/Users/marcogiacoppo/Desktop/git/Drawing Program/obj/Debug/net6.0/DrawingShape.dll
+/Users/marcogiacoppo/Desktop/git/Drawing Program/obj/Debug/net6.0/refint/DrawingShape.dll
+/Users/marcogiacoppo/Desktop/git/Drawing Program/obj/Debug/net6.0/DrawingShape.pdb
+/Users/marcogiacoppo/Desktop/git/Drawing Program/obj/Debug/net6.0/DrawingShape.genruntimeconfig.cache
+/Users/marcogiacoppo/Desktop/git/Drawing Program/obj/Debug/net6.0/ref/DrawingShape.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 3/3.3P Drawing Program/bin/Debug/net6.0/DrawingShape
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 3/3.3P Drawing Program/bin/Debug/net6.0/DrawingShape.deps.json
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 3/3.3P Drawing Program/bin/Debug/net6.0/DrawingShape.runtimeconfig.json
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 3/3.3P Drawing Program/bin/Debug/net6.0/DrawingShape.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 3/3.3P Drawing Program/bin/Debug/net6.0/DrawingShape.pdb
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 3/3.3P Drawing Program/obj/Debug/net6.0/DrawingShape.csproj.AssemblyReference.cache
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 3/3.3P Drawing Program/obj/Debug/net6.0/DrawingShape.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 3/3.3P Drawing Program/obj/Debug/net6.0/DrawingShape.AssemblyInfoInputs.cache
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 3/3.3P Drawing Program/obj/Debug/net6.0/DrawingShape.AssemblyInfo.cs
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 3/3.3P Drawing Program/obj/Debug/net6.0/DrawingShape.csproj.CoreCompileInputs.cache
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 3/3.3P Drawing Program/obj/Debug/net6.0/DrawingShape.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 3/3.3P Drawing Program/obj/Debug/net6.0/refint/DrawingShape.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 3/3.3P Drawing Program/obj/Debug/net6.0/DrawingShape.pdb
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 3/3.3P Drawing Program/obj/Debug/net6.0/DrawingShape.genruntimeconfig.cache
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 3/3.3P Drawing Program/obj/Debug/net6.0/ref/DrawingShape.dll
+/Users/marcogiacoppo/Desktop/git/Week 3/3.3P Drawing Program/bin/Debug/net6.0/DrawingShape
+/Users/marcogiacoppo/Desktop/git/Week 3/3.3P Drawing Program/bin/Debug/net6.0/DrawingShape.deps.json
+/Users/marcogiacoppo/Desktop/git/Week 3/3.3P Drawing Program/bin/Debug/net6.0/DrawingShape.runtimeconfig.json
+/Users/marcogiacoppo/Desktop/git/Week 3/3.3P Drawing Program/bin/Debug/net6.0/DrawingShape.dll
+/Users/marcogiacoppo/Desktop/git/Week 3/3.3P Drawing Program/bin/Debug/net6.0/DrawingShape.pdb
+/Users/marcogiacoppo/Desktop/git/Week 3/3.3P Drawing Program/obj/Debug/net6.0/DrawingShape.csproj.AssemblyReference.cache
+/Users/marcogiacoppo/Desktop/git/Week 3/3.3P Drawing Program/obj/Debug/net6.0/DrawingShape.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcogiacoppo/Desktop/git/Week 3/3.3P Drawing Program/obj/Debug/net6.0/DrawingShape.AssemblyInfoInputs.cache
+/Users/marcogiacoppo/Desktop/git/Week 3/3.3P Drawing Program/obj/Debug/net6.0/DrawingShape.AssemblyInfo.cs
+/Users/marcogiacoppo/Desktop/git/Week 3/3.3P Drawing Program/obj/Debug/net6.0/DrawingShape.csproj.CoreCompileInputs.cache
+/Users/marcogiacoppo/Desktop/git/Week 3/3.3P Drawing Program/obj/Debug/net6.0/DrawingShape.dll
+/Users/marcogiacoppo/Desktop/git/Week 3/3.3P Drawing Program/obj/Debug/net6.0/refint/DrawingShape.dll
+/Users/marcogiacoppo/Desktop/git/Week 3/3.3P Drawing Program/obj/Debug/net6.0/DrawingShape.pdb
+/Users/marcogiacoppo/Desktop/git/Week 3/3.3P Drawing Program/obj/Debug/net6.0/DrawingShape.genruntimeconfig.cache
+/Users/marcogiacoppo/Desktop/git/Week 3/3.3P Drawing Program/obj/Debug/net6.0/ref/DrawingShape.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 3/3.3P Drawing Program - A Drawing Class/bin/Debug/net6.0/DrawingShape
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 3/3.3P Drawing Program - A Drawing Class/bin/Debug/net6.0/DrawingShape.deps.json
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 3/3.3P Drawing Program - A Drawing Class/bin/Debug/net6.0/DrawingShape.runtimeconfig.json
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 3/3.3P Drawing Program - A Drawing Class/bin/Debug/net6.0/DrawingShape.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 3/3.3P Drawing Program - A Drawing Class/bin/Debug/net6.0/DrawingShape.pdb
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 3/3.3P Drawing Program - A Drawing Class/obj/Debug/net6.0/DrawingShape.csproj.AssemblyReference.cache
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 3/3.3P Drawing Program - A Drawing Class/obj/Debug/net6.0/DrawingShape.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 3/3.3P Drawing Program - A Drawing Class/obj/Debug/net6.0/DrawingShape.AssemblyInfoInputs.cache
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 3/3.3P Drawing Program - A Drawing Class/obj/Debug/net6.0/DrawingShape.AssemblyInfo.cs
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 3/3.3P Drawing Program - A Drawing Class/obj/Debug/net6.0/DrawingShape.csproj.CoreCompileInputs.cache
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 3/3.3P Drawing Program - A Drawing Class/obj/Debug/net6.0/DrawingShape.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 3/3.3P Drawing Program - A Drawing Class/obj/Debug/net6.0/refint/DrawingShape.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 3/3.3P Drawing Program - A Drawing Class/obj/Debug/net6.0/DrawingShape.pdb
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 3/3.3P Drawing Program - A Drawing Class/obj/Debug/net6.0/DrawingShape.genruntimeconfig.cache
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 3/3.3P Drawing Program - A Drawing Class/obj/Debug/net6.0/ref/DrawingShape.dll

@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{03ABC947-038D-489C-93A2-53D39BFC71C5}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.SwinAdventure PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestSwinAdventure/TestPath.cs">
+    <Files>
+      <File FileName="SwinAdventure/Program.cs" />
+      <File FileName="SwinAdventure/CommandProcessor.cs" />
+      <File FileName="TestSwinAdventure/TestCommandProcessor.cs" Line="1" Column="1" />
+      <File FileName="TestSwinAdventure/TestMoveCommand.cs" Line="1" Column="1" />
+      <File FileName="TestSwinAdventure/TestLocation.cs" Line="1" Column="1" />
+      <File FileName="TestSwinAdventure/TestLookCommand.cs" Line="1" Column="1" />
+      <File FileName="TestSwinAdventure/TestPath.cs" Line="1" Column="1" />
+      <File FileName="TestSwinAdventure/TestItem.cs" Line="1" Column="1" />
+      <File FileName="SwinAdventure/Path.cs" />
+      <File FileName="TestSwinAdventure/Usings.cs" />
+      <File FileName="SwinAdventure/MoveCommand.cs" Line="13" Column="66" />
+      <File FileName="TestSwinAdventure/TestBag.cs" Line="1" Column="1" />
+      <File FileName="SwinAdventure/LookCommand.cs" />
+      <File FileName="SwinAdventure/IHaveInventory.cs" Line="1" Column="1" />
+      <File FileName="SwinAdventure/IdentifiableObject.cs" Line="1" Column="1" />
+      <File FileName="SwinAdventure/GameObject.cs" Line="1" Column="1" />
+      <File FileName="SwinAdventure/Command.cs" />
+      <File FileName="SwinAdventure/Bag.cs" />
+      <File FileName="SwinAdventure/Player.cs" />
+      <File FileName="SwinAdventure/Location.cs" />
+      <File FileName="TestSwinAdventure/TestInventory.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SwinAdventure" expanded="True">
+            <Node name="SwinAdventure" expanded="True" />
+            <Node name="TestSwinAdventure" expanded="True">
+              <Node name="TestPath.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

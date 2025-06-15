@@ -1,0 +1,3 @@
+SELECT '104071453' AS StudId, Player1453.PName, Campaign1453.CampaignTitle
+FROM Player1453
+JOIN Campaign1453 ON Player1453.CampaignCode = Campaign1453.CampaignCode;

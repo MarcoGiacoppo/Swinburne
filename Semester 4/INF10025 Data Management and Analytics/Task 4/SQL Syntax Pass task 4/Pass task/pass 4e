@@ -1,0 +1,8 @@
+INSERT INTO Campaign1453 (CampaignCode, CampaignTitle)
+VALUES (1, 'Campaign Four');
+
+INSERT INTO Player1453 (Pid, PName, Gender, CampaignCode)
+VALUES (27, 'Marcus Pontembelli', 'M', 4);
+
+DELETE FROM Campaign1453
+WHERE CampaignTitle = 'Campaign Two';

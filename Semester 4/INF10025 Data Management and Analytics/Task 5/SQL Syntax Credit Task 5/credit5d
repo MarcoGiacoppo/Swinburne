@@ -1,0 +1,69 @@
+-- Creating the Customer table
+CREATE TABLE Customer (
+    CustomerId INT PRIMARY KEY,
+    Name VARCHAR(255)
+);
+
+-- Creating the Motorcycle table
+CREATE TABLE Motorcycle (
+    VIN VARCHAR(255) PRIMARY KEY,
+    Make VARCHAR(100),
+    Model VARCHAR(100),
+    Year INT,
+    EngineCapacity INT
+);
+
+-- Creating the Service table
+CREATE TABLE Service (
+    ServiceId INT PRIMARY KEY,
+    Date DATE,
+    Location VARCHAR(255),
+    TotalCost DECIMAL(10, 2),
+    VIN VARCHAR(255),
+    FOREIGN KEY (VIN) REFERENCES Motorcycle(VIN)
+);
+
+-- Creating the Task table
+CREATE TABLE Task (
+    TaskId INT PRIMARY KEY,
+    Description VARCHAR(255),
+    HourlyRate DECIMAL(10, 2)
+);
+
+-- Creating the Part table
+CREATE TABLE Part (
+    PartId INT PRIMARY KEY,
+    Name VARCHAR(255),
+    UnitPrice DECIMAL(10, 2)
+);
+
+-- Creating the Ownership table
+CREATE TABLE Ownership (
+    CustomerId INT,
+    VIN VARCHAR(255),
+    StartDate DATE,
+    EndDate DATE,
+    PRIMARY KEY (CustomerId, VIN),
+    FOREIGN KEY (CustomerId) REFERENCES Customer(CustomerId),
+    FOREIGN KEY (VIN) REFERENCES Motorcycle(VIN)
+);
+
+-- Creating the ServiceTask table
+CREATE TABLE ServiceTask (
+    TaskId INT,
+    ServiceId INT,
+    Hours DECIMAL(10, 2),
+    PRIMARY KEY (TaskId, ServiceId),
+    FOREIGN KEY (TaskId) REFERENCES Task(TaskId),
+    FOREIGN KEY (ServiceId) REFERENCES Service(ServiceId)
+);
+
+-- Creating the ServicePart table
+CREATE TABLE ServicePart (
+    Quantity INT,
+    ServiceId INT,
+    PartId INT,
+    PRIMARY KEY (ServiceId, PartId),
+    FOREIGN KEY (ServiceId) REFERENCES Service(ServiceId),
+    FOREIGN KEY (PartId) REFERENCES Part(PartId)
+);

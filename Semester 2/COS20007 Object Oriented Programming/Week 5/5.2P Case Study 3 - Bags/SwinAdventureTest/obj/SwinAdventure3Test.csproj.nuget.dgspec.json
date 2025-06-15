@@ -1,0 +1,87 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 4/4.2P SwinAdventure/SwinAdventureTest/SwinAdventure3Test.csproj": {}
+  },
+  "projects": {
+    "/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 4/4.2P SwinAdventure/SwinAdventureTest/SwinAdventure3Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 4/4.2P SwinAdventure/SwinAdventureTest/SwinAdventure3Test.csproj",
+        "projectName": "SwinAdventure3Test",
+        "projectPath": "/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 4/4.2P SwinAdventure/SwinAdventureTest/SwinAdventure3Test.csproj",
+        "packagesPath": "/Users/marcogiacoppo/.nuget/packages/",
+        "outputPath": "/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 4/4.2P SwinAdventure/SwinAdventureTest/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/marcogiacoppo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 4/4.2P SwinAdventure/SwinAdventure/SwinAdventure.csproj": {
+                "projectPath": "/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 4/4.2P SwinAdventure/SwinAdventure/SwinAdventure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+CREATE TABLE Campaign1453
+(
+CampaignCode INT PRIMARY KEY,
+CampaignTitle VARCHAR (50)
+);
+
+CREATE TABLE Player1453
+(
+Pid INT PRIMARY KEY,
+CampaignCode INT,
+PName VARCHAR (50),
+Gender VARCHAR (10),
+FOREIGN KEY (CampaignCode) REFERENCES Campaign1453(CampaignCode)
+);

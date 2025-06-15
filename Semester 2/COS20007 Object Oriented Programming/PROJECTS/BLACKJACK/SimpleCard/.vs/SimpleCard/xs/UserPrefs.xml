@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{A2FA4AD0-B02E-4183-A611-9286D9B41A0F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SimpleCard/Game.cs">
+    <Files>
+      <File FileName="SimpleCard/Player.cs" Line="137" Column="2" />
+      <File FileName="SimpleCard/Game.cs" Line="42" Column="39" />
+      <File FileName="SimpleCard/Deck.cs" />
+      <File FileName="SimpleCard/Card.cs" Line="32" Column="9" />
+      <File FileName="SimpleCard/Program.cs" Line="25" Column="46" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SimpleCard" expanded="True">
+            <Node name="SimpleCard" expanded="True">
+              <Node name="Game.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SimpleCard PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

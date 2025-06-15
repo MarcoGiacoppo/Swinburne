@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{6711AFC7-30F1-485F-A312-1BE919873A09}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Shape.cs" />
+      <File FileName="Program.cs" Line="40" Column="1" />
+      <File FileName="Drawing.cs" />
+      <File FileName="myeasylog.log" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DrawingProgram" expanded="True">
+            <Node name="DrawingShape" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DrawingShape PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

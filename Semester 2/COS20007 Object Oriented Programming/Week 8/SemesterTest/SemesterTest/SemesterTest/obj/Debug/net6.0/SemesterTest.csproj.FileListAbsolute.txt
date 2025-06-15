@@ -1,0 +1,30 @@
+/Users/marcogiacoppo/Desktop/semester2/COS20007/SemesterTest/SemesterTest/SemesterTest/obj/Debug/net6.0/SemesterTest.csproj.AssemblyReference.cache
+/Users/marcogiacoppo/Desktop/semester2/COS20007/SemesterTest/SemesterTest/SemesterTest/obj/Debug/net6.0/SemesterTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcogiacoppo/Desktop/semester2/COS20007/SemesterTest/SemesterTest/SemesterTest/obj/Debug/net6.0/SemesterTest.AssemblyInfoInputs.cache
+/Users/marcogiacoppo/Desktop/semester2/COS20007/SemesterTest/SemesterTest/SemesterTest/obj/Debug/net6.0/SemesterTest.AssemblyInfo.cs
+/Users/marcogiacoppo/Desktop/semester2/COS20007/SemesterTest/SemesterTest/SemesterTest/obj/Debug/net6.0/SemesterTest.csproj.CoreCompileInputs.cache
+/Users/marcogiacoppo/Desktop/semester2/COS20007/SemesterTest/SemesterTest/SemesterTest/bin/Debug/net6.0/SemesterTest
+/Users/marcogiacoppo/Desktop/semester2/COS20007/SemesterTest/SemesterTest/SemesterTest/bin/Debug/net6.0/SemesterTest.deps.json
+/Users/marcogiacoppo/Desktop/semester2/COS20007/SemesterTest/SemesterTest/SemesterTest/bin/Debug/net6.0/SemesterTest.runtimeconfig.json
+/Users/marcogiacoppo/Desktop/semester2/COS20007/SemesterTest/SemesterTest/SemesterTest/bin/Debug/net6.0/SemesterTest.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/SemesterTest/SemesterTest/SemesterTest/bin/Debug/net6.0/SemesterTest.pdb
+/Users/marcogiacoppo/Desktop/semester2/COS20007/SemesterTest/SemesterTest/SemesterTest/obj/Debug/net6.0/SemesterTest.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/SemesterTest/SemesterTest/SemesterTest/obj/Debug/net6.0/refint/SemesterTest.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/SemesterTest/SemesterTest/SemesterTest/obj/Debug/net6.0/SemesterTest.pdb
+/Users/marcogiacoppo/Desktop/semester2/COS20007/SemesterTest/SemesterTest/SemesterTest/obj/Debug/net6.0/SemesterTest.genruntimeconfig.cache
+/Users/marcogiacoppo/Desktop/semester2/COS20007/SemesterTest/SemesterTest/SemesterTest/obj/Debug/net6.0/ref/SemesterTest.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 8/SemesterTest/SemesterTest/SemesterTest/bin/Debug/net6.0/SemesterTest
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 8/SemesterTest/SemesterTest/SemesterTest/bin/Debug/net6.0/SemesterTest.deps.json
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 8/SemesterTest/SemesterTest/SemesterTest/bin/Debug/net6.0/SemesterTest.runtimeconfig.json
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 8/SemesterTest/SemesterTest/SemesterTest/bin/Debug/net6.0/SemesterTest.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 8/SemesterTest/SemesterTest/SemesterTest/bin/Debug/net6.0/SemesterTest.pdb
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 8/SemesterTest/SemesterTest/SemesterTest/obj/Debug/net6.0/SemesterTest.csproj.AssemblyReference.cache
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 8/SemesterTest/SemesterTest/SemesterTest/obj/Debug/net6.0/SemesterTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 8/SemesterTest/SemesterTest/SemesterTest/obj/Debug/net6.0/SemesterTest.AssemblyInfoInputs.cache
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 8/SemesterTest/SemesterTest/SemesterTest/obj/Debug/net6.0/SemesterTest.AssemblyInfo.cs
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 8/SemesterTest/SemesterTest/SemesterTest/obj/Debug/net6.0/SemesterTest.csproj.CoreCompileInputs.cache
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 8/SemesterTest/SemesterTest/SemesterTest/obj/Debug/net6.0/SemesterTest.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 8/SemesterTest/SemesterTest/SemesterTest/obj/Debug/net6.0/refint/SemesterTest.dll
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 8/SemesterTest/SemesterTest/SemesterTest/obj/Debug/net6.0/SemesterTest.pdb
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 8/SemesterTest/SemesterTest/SemesterTest/obj/Debug/net6.0/SemesterTest.genruntimeconfig.cache
+/Users/marcogiacoppo/Desktop/semester2/COS20007/Week 8/SemesterTest/SemesterTest/SemesterTest/obj/Debug/net6.0/ref/SemesterTest.dll

@@ -1,0 +1,48 @@
+﻿<Properties StartupConfiguration="{AB5786A9-5F1F-4390-8C33-F1BE9EBF18B0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Inventory.cs">
+    <Files>
+      <File FileName="../SwinAdventureTest/TestBag.cs" />
+      <File FileName="../SwinAdventureTest/TestInventory.cs" />
+      <File FileName="Bag.cs" />
+      <File FileName="Player.cs" Line="1" Column="1" />
+      <File FileName="Command.cs" Line="1" Column="1" />
+      <File FileName="LookCommand.cs" Line="44" Column="13" />
+      <File FileName="../SwinAdventureTest/TestLookCommand.cs" />
+      <File FileName="GameObject.cs" Line="1" Column="1" />
+      <File FileName="../SwinAdventureTest/Usings.cs" />
+      <File FileName="Inventory.cs" Line="10" Column="3" />
+      <File FileName="IdentifiableObject.cs" Line="1" Column="1" />
+      <File FileName="IHaveInventory.cs" />
+      <File FileName="../SwinAdventureTest/TestPlayer.cs" />
+      <File FileName="Item.cs" />
+      <File FileName="../SwinAdventureTest/TestItem.cs" />
+      <File FileName="Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SwinAdventure" expanded="True">
+            <Node name="SwinAdventure" expanded="True">
+              <Node name="Inventory.cs" selected="True" />
+            </Node>
+            <Node name="SwinAdventureTest" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="SwinAdventure" expanded="True">
+            <Node name="SwinAdventureTest" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SwinAdventure PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
